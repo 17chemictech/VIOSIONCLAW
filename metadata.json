@@ -1,0 +1,8 @@
+{
+  "name": "OpenClaw-Vision",
+  "description": "A real-time AI assistant for the visually impaired, providing spatial awareness, OCR, and safety navigation through live video and voice interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
